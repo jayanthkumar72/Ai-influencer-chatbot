@@ -7,3 +7,4 @@ sentence-transformers
 ollama
 python-dotenv
 gunicorn
+Flask-SQLAlchemy
