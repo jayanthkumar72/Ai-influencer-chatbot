@@ -1,0 +1,16 @@
+COMMON CAMPAIGN DISCUSSIONS
+
+Scenario: Brand asking for analytics
+Please share your latest engagement metrics and audience demographics before finalizing the campaign.
+
+Scenario: Influencer requesting creative freedom
+I would appreciate maintaining creative control to ensure authenticity with my audience.
+
+Scenario: Delayed payment issue
+We noticed the payment is pending. Could you please confirm the expected transfer date?
+
+Scenario: Brand wants exclusivity
+We require exclusivity in the skincare niche for 30 days.
+
+Scenario: Influencer declining offer politely
+Thank you for considering me. Unfortunately, the current budget does not align with my standard rates.

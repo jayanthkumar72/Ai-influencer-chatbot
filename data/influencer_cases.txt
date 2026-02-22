@@ -1,0 +1,25 @@
+INFLUENCER CASE EXAMPLES
+
+Case 1:
+Follower count: 25,000
+Engagement rate: 6%
+Niche: Fitness
+Suggested pricing: ₹12,000 per reel
+
+Case 2:
+Follower count: 80,000
+Engagement rate: 4%
+Niche: Fashion
+Suggested pricing: ₹35,000 per post
+
+Case 3:
+Follower count: 300,000
+Engagement rate: 3.5%
+Niche: Tech
+Suggested pricing: ₹1,20,000 campaign
+
+Case 4:
+Follower count: 15,000
+Engagement rate: 7%
+Niche: Lifestyle
+Suggested pricing: ₹8,000 per post
