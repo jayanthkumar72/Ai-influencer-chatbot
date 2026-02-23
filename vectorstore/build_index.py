@@ -8,7 +8,7 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 DATA_FOLDER = "data"
 VECTOR_DB_PATH = "vectorstore/index"
-
+# testing of the code
 def build_index():
 
     documents = []
@@ -20,7 +20,7 @@ def build_index():
             documents.extend(loader.load())
 
     if not documents:
-        print("❌ No documents found in data folder.")
+        print("No documents found in data folder.")
         return
 
     splitter = RecursiveCharacterTextSplitter(
@@ -40,7 +40,7 @@ def build_index():
 
     vectorstore.persist()
 
-    print("✅ Vector DB created successfully!")
+    print(" Vector DB created successfully!")
 
 
 if __name__ == "__main__":
