@@ -9,7 +9,7 @@ langchain-core==0.1.52
 chromadb==0.4.24
 
 sentence-transformers==2.6.1
-torch==2.2.2+cpu --index-url https://download.pytorch.org/whl/cpu
+torch==2.2.2
 
 langchain-groq
 python-dotenv
