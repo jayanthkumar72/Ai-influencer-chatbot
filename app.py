@@ -35,7 +35,7 @@ def create_app():
     app.register_blueprint(brief_bp)
     app.register_blueprint(health_bp)
 
-    # 🔥 Add Homepage Route
+    #  Add Homepage Route
     @app.route("/")
     def home():
         return render_template("chat.html")
