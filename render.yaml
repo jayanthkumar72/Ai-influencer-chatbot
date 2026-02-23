@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: ai-influencer-chatbot
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    plan: free
+    pythonVersion: 3.11.9
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false
